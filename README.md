@@ -63,19 +63,7 @@ A Power BI project was created to visualize the analysis results:
 - Correlation heatmap
 - Model comparison metrics
 
-## Repository Structure
 
-```
-credit-card-fraud-detection/
-│
-├── data/
-│   └── creditcard.csv
-├── images/
-│   └── credit_card_fraud_detection.png
-├── notebooks/
-│   ├── CreditCardFraudDetection.ipynb
-
-```
 
 ## Usage
 
