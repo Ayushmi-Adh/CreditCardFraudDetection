@@ -3,7 +3,7 @@
 <img width="537" alt="image" src="https://github.com/Ayushmi-Adh/CreditCardFraudDetection/assets/132826306/4a5c56d7-0f61-4b4b-9de2-502f0f290d0a">
 
 
-## Overview
+## Overview:
 
 This repository contains the code and resources for a data analysis and machine learning project focused on credit card fraud detection. The project was completed as part of the ZrockAi Data Analyst Internship program. The goal was to develop and evaluate machine learning models to accurately detect fraudulent transactions in credit card data.
 
