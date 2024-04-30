@@ -33,7 +33,7 @@ The project involved analyzing a dataset of credit card transactions to detect f
   - scikit-learn
 - Power BI
 
-## Data Exploration
+## Data Exploration:
 
 The data exploration phase involved:
 - Loading the dataset from a CSV file
