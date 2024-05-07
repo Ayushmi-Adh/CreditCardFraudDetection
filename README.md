@@ -24,7 +24,7 @@ This repository contains the code and resources for a data analysis and machine 
 
 The project involved analyzing a dataset of credit card transactions to detect fraudulent activities. Key steps included data exploration, data preprocessing, model training and evaluation, and creating visualizations using Power BI to showcase the insights gained.
 
-## Tools and Technologies
+## Tools and Technologies:
 
 - Python
   - pandas
