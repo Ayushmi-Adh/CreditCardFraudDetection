@@ -40,7 +40,7 @@ The data exploration phase involved:
 - Exploratory Data Analysis (EDA)
 - Visualizing class distribution, transaction amounts, time vs. amount trends, and correlation heatmap
 
-## Data Preprocessing
+## Data Preprocessing:
 
 Data preprocessing steps included:
 - Standardization of transaction amounts
