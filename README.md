@@ -26,7 +26,7 @@ The project involved analyzing a dataset of credit card transactions to detect f
 
 ## Tools and Technologies:
 
-- Python
+- Python:
   - pandas
   - matplotlib
   - seaborn
