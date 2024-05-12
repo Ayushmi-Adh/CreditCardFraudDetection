@@ -46,7 +46,7 @@ Data preprocessing steps included:
 - Standardization of transaction amounts
 - Feature engineering (dropping unnecessary columns, handling missing values)
 
-## Model Training and Evaluation
+## Model Training and Evaluation:
 
 Machine learning models trained and evaluated:
 - Logistic Regression
