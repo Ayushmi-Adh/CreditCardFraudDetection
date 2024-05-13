@@ -54,7 +54,7 @@ Machine learning models trained and evaluated:
 - Random Forest Classifier
 Evaluation metrics used: accuracy, recall, F1 score, precision
 
-## Power BI Project
+## Power BI Project:
 
 A Power BI project was created to visualize the analysis results:
 - Class distribution
