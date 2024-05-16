@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection Project
+# Credit Card Fraud-Detection Project
 
 <img width="537" alt="image" src="https://github.com/Ayushmi-Adh/CreditCardFraudDetection/assets/132826306/4a5c56d7-0f61-4b4b-9de2-502f0f290d0a">
 
