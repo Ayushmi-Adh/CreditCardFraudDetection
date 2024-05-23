@@ -65,7 +65,7 @@ A Power BI project was created to visualize the analysis results:
 
 
 
-## Usage
+## Usage :
 
 1. Clone the repository:
 
