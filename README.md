@@ -79,7 +79,7 @@ A Power BI project was created to visualize the analysis results:
 4. Run the Power BI project file (`creditcard.pbix`) to interact with the visualizations.
 
 
-## License
+## License :
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
