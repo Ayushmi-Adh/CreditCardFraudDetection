@@ -5,7 +5,7 @@
 
 ## Overview:
 
-This repository contains the code and resources for a data analysis and machine-learning project focused on credit card fraud detection. The project was completed as part of the ZrockAi Data Analyst Internship program. The goal was to develop and evaluate machine learning models to accurately detect fraudulent transactions in credit card data.
+This repository contains the code and resources for a data-analysis and machine-learning project focused on credit card fraud detection. The project was completed as part of the ZrockAi Data Analyst Internship program. The goal was to develop and evaluate machine learning models to accurately detect fraudulent transactions in credit card data.
 
 ## Table of Contents:
 
